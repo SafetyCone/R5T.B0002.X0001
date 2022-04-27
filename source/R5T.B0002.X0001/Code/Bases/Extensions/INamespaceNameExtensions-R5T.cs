@@ -13,5 +13,20 @@ namespace System
         {
             return NamespaceNames.R5T;
         }
+
+        public static string R5T_T0062(this INamespaceName _)
+        {
+            return NamespaceNames.R5T_T0062;
+        }
+
+        public static string R5T_T0063(this INamespaceName _)
+        {
+            return NamespaceNames.R5T_T0063;
+        }
+
+        public static string R5T_T0064(this INamespaceName _)
+        {
+            return NamespaceNames.R5T_T0064;
+        }
     }
 }
